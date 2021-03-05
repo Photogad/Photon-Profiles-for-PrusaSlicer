@@ -39,6 +39,8 @@ Like the LIGHT SPEED profile, I've increased the line widths by a large amount, 
 How it works: 
 I've taken the LIGHT SPEED profile and increased the infill amount, as well as the number of perimeters, and top and bottom shell thickness. I also recommend for strong parts to temporarily alter your filament profile to increase nozzle temperature by 10c, which helps to increase layer adhesion and therefore print strength. Unfortunately I cannot set up PrusaSlicer to do this automatically via preset profiles.
 
+**There are also other small tweaks here and there to increase speed on the faster profiles, but I will not bother to list them all.**
+
 # Example print times
 
 For a 3D Benchy @ 300% scale with a 0.40mm nozzle using PLA:
