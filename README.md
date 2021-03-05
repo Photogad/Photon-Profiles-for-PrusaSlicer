@@ -36,4 +36,19 @@ Like the LIGHT SPEED profile, I've increased the line widths by a large amount, 
 How it works: 
 I've taken the LIGHT SPEED profile and increased the infill amount, as well as the number of perimeters, and top and bottom shell thickness. I also recommend for strong parts to temporarily alter your filament profile to increase nozzle temperature by 10c, which helps to increase layer adhesion and therefore print strength. Unfortunately I cannot set up PrusaSlicer to do this automatically via preset profiles.
 
+# Example print times
 
+For a 3D Benchy @ 300% scale with a 0.40mm nozzle using PLA:
+
+- Prusa Quality Profile: 15 hours, 24 minutes.
+- Prusa Speed Profile: 12 hours, 27 minutes.
+- Photon SEXY Profile: 14 hours, 7 minutes.
+- Photon LIGHTSPEED profile: 9 hours, 3 minutes.
+- Photon LUDICROUS SPEED profile: 6 hours, 19 minutes.
+- Photon STRONG profile: 12 hours, 40 minutes.
+
+You can see the SEXY profile prints faster than the Prusa quality profile by about 7%.
+The LIGHTSPEED profile prints faster than the Prusa speed profile by about 25%.
+The LUDICROUS SPEED profile prints faster than the Prusa speed profile by about 50%.
+
+TODO: Add photos.
