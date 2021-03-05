@@ -48,7 +48,10 @@ For a 3D Benchy @ 300% scale with a 0.40mm nozzle using PLA:
 - Photon STRONG profile: 12 hours, 40 minutes.
 
 You can see the SEXY profile prints faster than the Prusa quality profile by about 7%.
+
 The LIGHTSPEED profile prints faster than the Prusa speed profile by about 25%.
+
 The LUDICROUS SPEED profile prints faster than the Prusa speed profile by about 50%.
+
 
 TODO: Add photos.
