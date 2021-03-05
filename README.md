@@ -6,7 +6,7 @@ NOTE: These profiles are in Beta stage and a work in progress. Some profiles may
 # Features
  - Profiles tuned for a wide-range of nozzle sizes (0.15mm, 0.20mm, 0.25mm, 0.40mm, 0.50mm, 0.60mm, 0.80mm, 1mm)
  - Profiles tuned for different materials (PLA, PETG, PC, FLEX, etc)
- - Profiles tuned for a wide variety of filament brands with extensive testing for best temperature and extrusion multiplier. 
+ - Profiles tuned for a wide variety of filament brands with extensive testing for best temperature, extrusion multiplier, and fan speed. 
  - Multiple profiles based on your printing goals (Quality, Speed, More Speed, Strength, etc).
  - Enhanced start GCODE for better purge line than the Prusa purge line. The purge line now does not bump into itself, and prints faster, and is easier to peel off the sheet when using PETG.
  - Only shows the correct matching print profiles based on the printer profile that is activated.
