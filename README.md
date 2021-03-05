@@ -1,5 +1,6 @@
 # Photon-Profiles-for-PrusaSlicer
-Finely tuned Photon™ profiles for PrusaSlicer. Highly optimized for MK3S Bondtech BMG Extruder with Mosquito hot end, but should work fine on a stock MK3S printer.
+Finely tuned Photon™ profiles for PrusaSlicer. Highly optimized for MK3S Bondtech BMG Extruder with Mosquito hot-end (non-magnum) and MMU2S installed, but should work fine on a stock MK3S printer.
+
 NOTE: These profiles are in Beta stage and a work in progress. Some profiles may be missing features listed below.
 
 # Features
@@ -7,6 +8,8 @@ NOTE: These profiles are in Beta stage and a work in progress. Some profiles may
  - Profiles tuned for different materials (PLA, PETG, PC, FLEX, etc)
  - Profiles tuned for a wide variety of filament brands with extensive testing for best temperature and extrusion multiplier. 
  - Multiple profiles based on your printing goals (Quality, Speed, More Speed, Strength, etc).
+ - Enhanced start GCODE for better purge line than the Prusa purge line. The purge line now does not bump into itself, and prints faster, and is easier to peel off the sheet when using PETG.
+ - Only shows the correct matching print profiles based on the printer profile that is activated.
 
 # Profile Naming System
 
@@ -55,3 +58,10 @@ The LUDICROUS SPEED profile prints faster than the Prusa speed profile by about 
 
 
 TODO: Add photos.
+
+# Will this work on a stock MK3S printer that doesn't have a Bondtech Extruder and Mosquito hot end, or a printer with no MMU2S installed?
+
+The print profiles should work fine, but you may need to alter the printer profiles and filament profiles and save them. Here's what you should change:
+- Retraction in the printer profiles. My retraction settings should still work fine on a stock MK3S, however you may get slightly better results if you run a [Retraction Calibration](retractioncalibration.com) test print and determine your own values.
+- Max Volumetric Flow in the filament profiles. I've determined the maximum volumetric flow with the BMG/Mosquito setup is about 17.6 mm3/s with PLA, but I set it in the Photon profiles to be 17 for safety. On a stock MK3S (E3D) hot end, you want to set this to 15 for PLA and 8 for PETG.
+- Profile names. They are named "BMG-M" denoting BMG extruder and Mosquito hot end. You may want to change the names and re-save each profile if this bothers you. To do it quickly, you can use a program in windows to find+replace "BMG-M" in the folder and change it to "MK3S" or whatever you want to call it.
