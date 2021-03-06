@@ -76,4 +76,4 @@ Or, if you want to make your own textured/smooth sheet preview, simply edit the 
 
 ![Bed Model](https://github.com/Photogad/Photon-Profiles-for-PrusaSlicer/blob/main/docs/Bed.png?raw=true)
 
-
+# This is a work in progress. Some features are missing. More profiles will be added later and more settings will be continuously tweaked.
