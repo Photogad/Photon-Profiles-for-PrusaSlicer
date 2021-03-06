@@ -45,9 +45,9 @@ I've taken the LIGHT SPEED profile and increased the infill amount, as well as t
 
 For a 3D Benchy @ 300% scale with a 0.40mm nozzle using PLA:
 
-- Prusa Quality Profile: 15 hours, 24 minutes.
-- Prusa Speed Profile: 12 hours, 27 minutes.
+- *Prusa Quality Profile: 15 hours, 24 minutes.*
 - Photon SEXY Profile: 14 hours, 7 minutes.
+- *Prusa Speed Profile: 12 hours, 27 minutes.*
 - Photon LIGHTSPEED profile: 9 hours, 3 minutes.
 - Photon LUDICROUS SPEED profile: 6 hours, 19 minutes.
 - Photon STRONG profile: 12 hours, 40 minutes.
