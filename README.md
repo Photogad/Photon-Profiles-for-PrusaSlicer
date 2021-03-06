@@ -20,7 +20,7 @@ Looks as good as the stock Prusa quality settings, but prints even faster!*
 
 **LIGHT SPEED**
 
-*For much faster prints, with a small loss of detail on the X and Y axis. Do not use this if your print has a lot of small or fine features on the top or bottom, such as small embossed or raised lettering. Good for mechanical prints where quality does not matter.*
+*For much faster prints, with a small loss of detail on the X and Y axis. Do not use this if your print has a lot of small or fine features on the top or bottom of the print surfaces, such as small embossed or raised lettering. Good for mechanical prints where quality does not matter.*
 
 How it works: 
 I've increased the line widths by a large amount, but to a percentage that the nozzle can handle. I've also lowered the infill amount a little bit, and increased the printing speeds.
@@ -52,11 +52,11 @@ For a 3D Benchy @ 300% scale with a 0.40mm nozzle using PLA:
 - Photon LUDICROUS SPEED profile: 6 hours, 19 minutes.
 - Photon STRONG profile: 12 hours, 40 minutes.
 
-You can see the SEXY profile prints faster than the Prusa quality profile by about 7%.
+You can see the SEXY profile prints faster than the Prusa quality profile by about 7% in the benchy example.
 
-The LIGHTSPEED profile prints faster than the Prusa speed profile by about 25%.
+The LIGHTSPEED profile prints faster than the Prusa speed profile by about 25% in the benchy example.
 
-The LUDICROUS SPEED profile prints faster than the Prusa speed profile by about 50%.
+The LUDICROUS SPEED profile prints faster than the Prusa speed profile by about 50% in the benchy example.
 
 
 TODO: Add photos.
