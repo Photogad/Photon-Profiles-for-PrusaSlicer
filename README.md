@@ -72,6 +72,7 @@ The print profiles should work fine, but you may need to alter the printer profi
 
 # Includes Prusa MK3S 3D Model and Ultistik™ Textured Sheet Preview
 If you don't want these, simply delete the "bed images" folder.
+Or, if you want to make your own textured/smooth sheet preview, simply edit the Ultistik-1.png file in a photo editing program and save.
 
 ![Bed Model](https://github.com/Photogad/Photon-Profiles-for-PrusaSlicer/blob/main/docs/Bed.png?raw=true)
 
