@@ -1,5 +1,5 @@
 # Photon™ Profiles for PrusaSlicer
-Finely tuned Photon™ profiles for PrusaSlicer. Highly optimized for MK3S Bondtech BMG Extruder and Mosquito hot-end (non-magnum) with MMU2S installed, but should work fine on a stock MK3S printer.
+Finely tuned Photon™ profiles for PrusaSlicer for the guy or gal that likes to use different sized nozzles. Highly optimized for MK3S Bondtech BMG Extruder and Mosquito hot-end (non-magnum) with MMU2S installed, but should work fine on a stock MK3S printer.
 
 NOTE: These profiles are in Beta stage and a work in progress. Some profiles may be missing features listed below.
 
