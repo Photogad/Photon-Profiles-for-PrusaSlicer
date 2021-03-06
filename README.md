@@ -69,3 +69,10 @@ The print profiles should work fine, but you may need to alter the printer profi
 - Fan speed in the filament profiles. I have these optimized for the [LDO BLOWER FAN](https://www.printedsolid.com/collections/prusa/products/ldo-5015-5v-blower-fan-df5015h05s) which is more powerful than the stock fan (I highly recommend getting one for best bridging and overhangs!). You can [RUN YOUR OWN FAN SPEED TEST](https://www.prusaprinters.org/prints/58001-ultimate-fan-speed-test) to determine the best values if you are using the stock fan, or simply set all the fan speeds to 100% for PLA like the Prusa defaults.
 
 - Profile names. They are named "BMG-M" denoting BMG extruder and Mosquito hot end. You may want to change the names and re-save each profile if this bothers you. To do it quickly, you can use a program in windows to find+replace "BMG-M" in the folder and change it to "MK3S" or whatever you want to call it.
+
+# Includes Prusa MK3S 3D Model and Ultistik™ Textured Sheet Preview
+If you don't want these, simply delete the "bed images" folder.
+
+[Bed Model](https://github.com/Photogad/Photon-Profiles-for-PrusaSlicer/blob/main/docs/Bed.png)
+
+
