@@ -11,6 +11,7 @@ NOTE: These profiles are in Beta stage and a work in progress. Some profiles may
  - Improved supports; easier to remove.
  - Enhanced start GCODE for better purge line than the Prusa purge line. The purge line now does not bump into itself, and prints faster, and is easier to peel off the sheet when using PETG.
  - Only shows the correct matching print profiles based on the printer profile that is activated.
+ - Output gcode files have nozzle size and layer height in the filenames.
 
 # Profile Naming System
 
